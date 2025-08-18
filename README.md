@@ -1,4 +1,7 @@
-![Tribots banner](assets/banner.svg)
+<p align="center">
+  <img src="banner.svg" alt="Tribots banner" />
+</p>
+
 
 # 🤖 Tribots — WRO 2025
 
