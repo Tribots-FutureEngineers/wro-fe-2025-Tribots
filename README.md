@@ -3,9 +3,9 @@
 # 🤖 Tribots — WRO 2025
 
 ## Team Members
-- **Ehtasham** — Electronics & Firmware  
+- **Ehtasham** — Software & Vision    
 - **Behzad** — Mechanical & 3D Design  
-- **Shahim** — Software & Vision  
+- **Shahim** — Electronics & Firmware  
 
 ---
 
