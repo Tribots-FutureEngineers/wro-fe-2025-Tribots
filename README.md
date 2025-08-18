@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="banner.svg" alt="Tribots banner" />
+  <img src="https://raw.githubusercontent.com/Tribots-FutureEngineers/wro-fe-2025-Tribots/main/Tribots.jpeg" alt="Tribots Banner" />
 </p>
+
 
 
 # 🤖 Tribots — WRO 2025
